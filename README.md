@@ -11,4 +11,4 @@ I only modified a few lines of code to adapt the CollisionDetector tool to a mac
 ### How to use
 
 - Copy the files to the Macro folder
-- Run the CollisionDetector file (Menu Macros...>> CollisionDetector.py
+- Run the CollisionDetector file (In FreeCAD select the menu Macros...>> CollisionDetector.py
