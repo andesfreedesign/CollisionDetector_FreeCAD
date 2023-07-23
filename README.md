@@ -7,3 +7,8 @@ This tool belongs to the Animate workbench developed by Jiří VALÁŠEK
 https://github.com/JiriValasek/Animate
 
 I only modified a few lines of code to adapt the CollisionDetector tool to a macro, since I think it is a great tool, and I consider it essential to use it in any assembly workbench in FreeCAD.
+
+### How to use
+
+- Copy the files to the Macro folder
+- Run the CollisionDetector file (Menu Macros...>> CollisionDetector.py
