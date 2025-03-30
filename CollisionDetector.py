@@ -42,8 +42,8 @@ import FreeCADGui
 import json
 
 from CollisionObject import CollisionProxy, ViewProviderCollisionProxy
-from PySide2.QtWidgets import QMessageBox
-from PySide2.QtCore import QTimer
+from PySide6.QtWidgets import QMessageBox
+from PySide6.QtCore import QTimer
 from os import path
 
 # Get the path of the directory where the macro file is located
